@@ -15,11 +15,7 @@ export default function Home() {
       </Head>
       <Header/>
       <main className={`${styles.main}`}>
-        <Link href={'/ExampleOne'}>Example 1</Link>
-        <Link href={'/ExampleTwo'}>Example 2</Link>
-        <Link href={'/ExampleThree'}>Example 3</Link>
-        <Link href={'/ExampleFour'}>Example 4</Link>
-        <Link href={'/ExampleFive'}>Example 5</Link>
+        
       </main>
       <Footer/>
     </>
